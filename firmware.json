@@ -1,7 +1,7 @@
 {
-  "version": "2.5.8",
+  "version": "2.5.9",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1800384,
-  "md5": "CD916332B697B97E0086C1EB3D887164",
-  "notes": "v2.5.8: dropdown fix, OTA Gitee URL, effects redesign"
+  "size": 1800480,
+  "md5": "120E3D84F7E08434C1CD9EF300B1BDC2",
+  "notes": "v2.5.9: fix OTA stack overflow, dropdown fix, effects redesign"
 }
