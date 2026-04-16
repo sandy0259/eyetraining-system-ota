@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1786992,
-  "md5": "E7B4A527F58EBB1D79D7F8D04A7080C6",
-  "notes": "v2.5.1 final: LCD buffers, game guards, training cleanup, storage verified",
+  "size": 1787200,
+  "md5": "604AC74C1C01846FFABDD24746370EEC",
+  "notes": "v2.5.1: storage longevity (atomic writes, 50-entry buffer), audit fixes",
   "min_version": "1.0.0"
 }
