@@ -1,7 +1,7 @@
 {
-  "version": "2.6.8",
+  "version": "2.6.9",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1804304,
+  "size": 1804480,
   "md5": "",
-  "notes": "v2.6.8: ghost pixel fix for admin, OTA check task, LED colors"
+  "notes": "v2.6.9: ghost pixel fix, standby flicker fix, OTA SSL pre-alloc"
 }
