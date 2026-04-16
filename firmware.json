@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1785008,
-  "md5": "C4E451FF57E73DC5C751BE613D4CB199",
-  "notes": "v2.5.1: zigzag training sequence, LCD ghost fix, HTTPS OTA",
+  "size": 1785184,
+  "md5": "79799F8FEAAA0546BD4735192C83C6D6",
+  "notes": "v2.5.1: ghost pixel fixes, admin layout, zigzag training, HTTPS OTA",
   "min_version": "1.0.0"
 }
