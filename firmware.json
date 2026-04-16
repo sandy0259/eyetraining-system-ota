@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1794816,
-  "md5": "A35AEC28F10041CF79AE741448411A3A",
-  "notes": "v2.5.1: TTT grid fix, auth persistence, templates, scroll fix",
+  "size": 1795712,
+  "md5": "CFBCDE5FBB170B081DB8C313DFEF88F4",
+  "notes": "v2.5.2: standby color setting, auth persistence, TTT fix, templates, scroll fix",
   "min_version": "1.0.0"
 }
