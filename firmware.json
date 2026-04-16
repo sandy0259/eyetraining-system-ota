@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
+  "version": "2.5.4",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1800256,
-  "md5": "026F82628352BBAFD3CC691D6E65B6C8",
-  "notes": "v2.5.3: per-event effect colors, scroll fix, layout templates, render debounce",
+  "size": 1800336,
+  "md5": "BF6CB7DCFE565004AF77997CD09FC480",
+  "notes": "v2.5.4: quick replay, effects preview fix, event colors, menu returns",
   "min_version": "1.0.0"
 }
