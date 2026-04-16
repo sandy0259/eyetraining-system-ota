@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1800336,
-  "md5": "BF6CB7DCFE565004AF77997CD09FC480",
-  "notes": "v2.5.4: quick replay, effects preview fix, event colors, menu returns",
+  "size": 1800960,
+  "md5": "C81DA8F41DFC31B89973CAB37C72583A",
+  "notes": "v2.5.5: OTA progress bar, menu returns, effects preview, event colors",
   "min_version": "1.0.0"
 }
