@@ -1,7 +1,7 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1800896,
-  "md5": "7069BF43CC81E5A2EB8DC6E3F60EA709",
-  "notes": "v2.6.0: persistent check result, OTA stack fix, effects redesign"
+  "size": 1803344,
+  "md5": "13C93536AE79CB81C93FD157569FE0C6",
+  "notes": "v2.6.1: unified effect modes, per-mode editor, OTA fixes"
 }
