@@ -1,0 +1,15 @@
+Copyright (c) 2026 Tianjin Sino Music Co. Ltd. All rights reserved.
+
+The firmware binaries in this repository are provided solely for
+over-the-air update delivery to authorized devices manufactured or
+licensed by the copyright holder.
+
+You may NOT:
+  - Use these binaries on any unauthorized hardware
+  - Reverse engineer, decompile, or disassemble the binaries
+  - Redistribute, mirror, or rehost these files
+  - Extract, modify, or reuse any code, assets, or data contained
+    within these binaries
+
+All rights not expressly granted are reserved. For licensing
+inquiries, contact: sandy0259@gmail.com
