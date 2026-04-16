@@ -1,8 +1,8 @@
 {
   "version": "2.5.2",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1799744,
-  "md5": "8A8D421DD63B809A88CAA6343EA64267",
-  "notes": "v2.5.2: configurable effect colors, standby color, auth fix, templates",
+  "size": 1800256,
+  "md5": "F32DB0536D9526CAB84E7763B9A1CE18",
+  "notes": "v2.5.2: effect colors, layout templates, scroll fix, auth, clean build",
   "min_version": "1.0.0"
 }
