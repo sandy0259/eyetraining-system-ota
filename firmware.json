@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1794336,
-  "md5": "D89FBA91AAB782576D2AEDB3329C4574",
-  "notes": "v2.5.1: scroll fix, layout+sequence templates, effects layout preview, TTT mobile fix",
+  "size": 1794768,
+  "md5": "E733534431B3D6A88609E21218211D29",
+  "notes": "v2.5.1: persistent auth across reboot, templates, scroll fix",
   "min_version": "1.0.0"
 }
