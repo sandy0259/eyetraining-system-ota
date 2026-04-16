@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1781424,
-  "md5": "F4F75368F8F1BFF39E7BA9A5D7F3791C",
-  "notes": "v2.25 final: Gitee OTA default, all docs updated, consistency verified",
+  "size": 1781872,
+  "md5": "BCF700F95AF9117EF3E7D88335EF8735",
+  "notes": "v2.5.1: HTTPS OTA for Gitee/GitHub, embedded HTML, all fixes applied",
   "min_version": "1.0.0"
 }
