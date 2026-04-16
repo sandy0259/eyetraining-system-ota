@@ -1,8 +1,7 @@
 {
   "version": "2.5.7",
-  "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1800208,
-  "md5": "448CC2F1782F08C2BDD2FCC1E24A0983",
-  "notes": "v2.5.7: effects redesign, OTA task fix, auto URL, menu returns",
-  "min_version": "1.0.0"
+  "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
+  "size": 1800304,
+  "md5": "5D3EF4DD857B4F70E4721A620D61649E",
+  "notes": "v2.5.7: effects redesign, OTA fix, Gitee binary URL"
 }
