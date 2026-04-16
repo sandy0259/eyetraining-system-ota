@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1786592,
-  "md5": "CF324EACC84BE8D53FE78110C153FBFA",
-  "notes": "v2.5.1: fix custom layout persistence, zigzag sequence",
+  "size": 1786912,
+  "md5": "A616BBEF200737123D2036C33154E1E2",
+  "notes": "v2.5.1: audit fixes - data safety, validation, NFC, timezone",
   "min_version": "1.0.0"
 }
