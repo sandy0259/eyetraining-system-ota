@@ -1,7 +1,7 @@
 {
-  "version": "2.6.2",
+  "version": "2.6.3",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1803344,
+  "size": 1803696,
   "md5": "",
-  "notes": "v2.6.2: unified effects, OTA fixes, configurable modes"
+  "notes": "v2.6.3: OTA check feedback, unified effects, configurable modes"
 }
