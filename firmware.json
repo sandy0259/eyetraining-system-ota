@@ -1,8 +1,8 @@
 {
   "version": "2.5.1",
   "url": "https://raw.githubusercontent.com/sandy0259/eyetraining-system-ota/main/firmware/firmware.bin",
-  "size": 1786416,
-  "md5": "CD9710CE33090989A1BACA5C687354B1",
-  "notes": "v2.5.1: fix zigzag sequence, remove admin training buttons",
+  "size": 1786592,
+  "md5": "CF324EACC84BE8D53FE78110C153FBFA",
+  "notes": "v2.5.1: fix custom layout persistence, zigzag sequence",
   "min_version": "1.0.0"
 }
