@@ -1,7 +1,7 @@
 {
-  "version": "2.6.6",
+  "version": "2.6.7",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1804304,
+  "size": 1804352,
   "md5": "",
-  "notes": "v2.6.6: real-time LED colors on web, ghost pixel fix, layout match"
+  "notes": "v2.6.7: OTA check task fix, real-time LED, ghost pixel fix, guest RAM stats"
 }
