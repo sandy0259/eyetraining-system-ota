@@ -1,7 +1,7 @@
 {
-  "version": "2.7.2",
+  "version": "2.7.3",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1804736,
+  "size": 1804848,
   "md5": "",
-  "notes": "v2.7.2: whack-a-mole wrong-click ends game, LCD 100ms coalesce for ghost pixels, OTA 4096 bug fix"
+  "notes": "v2.7.3: LCD content-dedup + 2fps throttle during play (real ghost-pixel fix), OTA erase-before-HTTP (first Pull & Flash now works)"
 }
