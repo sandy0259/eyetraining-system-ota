@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1804384,
+  "size": 1804368,
   "md5": "",
-  "notes": "v2.7.0: simplified LCD, reverted ghost pixel patches, 1fps redraw"
+  "notes": "v2.7.1: revert LCD simplification that broke BACK button in training/game"
 }
