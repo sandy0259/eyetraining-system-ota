@@ -1,7 +1,7 @@
 {
-  "version": "2.7.4",
+  "version": "2.7.5",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1805584,
+  "size": 1806432,
   "md5": "",
-  "notes": "v2.7.4: dual-core input queue fix — eliminates ghost pixels + reboots caused by Core 0/Core 1 race. Also clamps NVS settings on load."
+  "notes": "v2.7.5: audio stability (amp startup, DMA headroom, inter-tone silence), NFC range tuning (RxGain max, 1MHz SPI, 3x retry), factory-reset power-cut safety, OTA task stack 24KB."
 }
