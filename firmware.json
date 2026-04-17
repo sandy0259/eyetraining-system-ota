@@ -1,7 +1,7 @@
 {
-  "version": "2.7.11",
+  "version": "2.7.12",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1812832,
+  "size": 1812784,
   "md5": "",
-  "notes": "v2.7.11: revert v2.7.5 RxGain override (was breaking RC522 clones). Diagnose now attempts a live card detect and tells you which stage fails."
+  "notes": "v2.7.12: fix web portal becoming slow after enabling NFC. Removed the 3x retry in the polling loop that was eating 20% of Core 1 CPU every half second."
 }
