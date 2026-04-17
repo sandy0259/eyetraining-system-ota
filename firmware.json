@@ -1,7 +1,7 @@
 {
-  "version": "2.7.1",
+  "version": "2.7.2",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1804368,
+  "size": 1804736,
   "md5": "",
-  "notes": "v2.7.1: revert LCD simplification that broke BACK button in training/game"
+  "notes": "v2.7.2: whack-a-mole wrong-click ends game, LCD 100ms coalesce for ghost pixels, OTA 4096 bug fix"
 }
