@@ -1,7 +1,7 @@
 {
-  "version": "2.7.5",
+  "version": "2.7.6",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1806432,
+  "size": 1807312,
   "md5": "",
-  "notes": "v2.7.5: audio stability (amp startup, DMA headroom, inter-tone silence), NFC range tuning (RxGain max, 1MHz SPI, 3x retry), factory-reset power-cut safety, OTA task stack 24KB."
+  "notes": "v2.7.6: OTA silent retry (3 attempts) — masks the first-click 4096 error. Plain 'Please wait...' shown during download; final failure asks user to Check Now again."
 }
