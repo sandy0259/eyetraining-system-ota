@@ -1,7 +1,7 @@
 {
-  "version": "2.7.7",
+  "version": "2.7.8",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1810912,
+  "size": 1810928,
   "md5": "",
-  "notes": "v2.7.7: NFC multi-speed SPI probe + /api/nfc/diagnose endpoint and admin button for troubleshooting."
+  "notes": "v2.7.8: NFC probe tries 4MHz first (restores pre-v2.7.5 working speed). If your RC522 stopped working after OTA, this should bring it back."
 }
