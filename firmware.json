@@ -1,7 +1,7 @@
 {
-  "version": "2.7.10",
+  "version": "2.7.11",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1811280,
+  "size": 1812832,
   "md5": "",
-  "notes": "v2.7.10: Diagnose no longer wipes NFC chip config — cards scan correctly again after clicking Diagnose."
+  "notes": "v2.7.11: revert v2.7.5 RxGain override (was breaking RC522 clones). Diagnose now attempts a live card detect and tells you which stage fails."
 }
