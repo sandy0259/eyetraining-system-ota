@@ -1,7 +1,7 @@
 {
-  "version": "2.7.15",
+  "version": "2.7.16",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1816752,
+  "size": 1817424,
   "md5": "",
-  "notes": "v2.7.15: auth gates on admin endpoints (reboot/shutdown/factory-reset/OTA/wifi/AI/fs/config-writes), secret redaction in GETs with merge-preserve on POST, /api/fs/format actually formats now, /history prune typo fixed."
+  "notes": "v2.7.16: history prune/clear/factory-reset path fix for Arduino-ESP32 v3.x, retention GET now reports real value, SMTP credentials no longer logged to Serial."
 }
