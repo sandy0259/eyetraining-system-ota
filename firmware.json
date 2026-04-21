@@ -1,7 +1,7 @@
 {
-  "version": "2.7.14",
+  "version": "2.7.15",
   "url": "https://gitee.com/deedeehome/EyeTraining-System-OTA/raw/main/firmware/firmware.bin",
-  "size": 1813648,
+  "size": 1816752,
   "md5": "",
-  "notes": "v2.7.14: restore CMD_IDLE reset for RC522 clone chips — a v2.24 fix that was somehow lost. Clones need this reset or card detection silently fails even though version register responds."
+  "notes": "v2.7.15: auth gates on admin endpoints (reboot/shutdown/factory-reset/OTA/wifi/AI/fs/config-writes), secret redaction in GETs with merge-preserve on POST, /api/fs/format actually formats now, /history prune typo fixed."
 }
